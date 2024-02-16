@@ -1,0 +1,94 @@
+.primary-scroll{
+     border: 1px solid gray;
+     width: 350px;
+     height: 150px;
+}
+.checkboxlabel{
+     /* border: 2px solid yellow; */
+     width: 200px;
+     height: 26px;
+     display: flex;
+     position: relative;
+     top: 13px;
+     left: 12px;
+     justify-content: space-between;
+}
+.completeprofile{
+    width: 143px;
+    height: 26px;
+    font-size: 17px;
+    font-weight: 400;
+}
+.labelchecksj{
+     position: relative;
+     top: 4px;
+     left: 7px;
+}
+
+.changeusingchecked{
+     border: 2px solid gray;
+     width: 330px;
+     height: 100px;
+     position: relative;
+     left: 10px;
+     bottom: 16px;
+}
+.paragoodjob{
+     position: relative;
+     top: 10px;
+     left: 70px;
+     color: #4375FB;
+     font-weight: 400;
+     font-size: 15px;
+     line-height: 19.8px;
+}
+.bottomcomplete{
+     width: 143px;
+     height: 42px;
+     font-weight: 700;
+     font-size: 32px;
+     line-height: 42.24px;
+     color:#4375FB;
+     position: relative;
+     top: 6px;
+     left: 65px;
+}
+
+.completionTime{
+     font-weight: bold;
+     position: relative;
+     left: 255px;
+     bottom: 70px;
+}
+
+.btn{
+     background-color: #4375FB;
+     border: none;
+     width: 100px;
+     color: white;
+     height: 45px;
+     cursor: pointer;
+}
+.renderedbutton{
+     position: relative;
+     top: 50px;
+     left: 220px;
+}
+.downloadsection{
+     position: relative;
+     bottom: 65px;
+}
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+

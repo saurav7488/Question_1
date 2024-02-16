@@ -1,0 +1,58 @@
+{
+    "available_land": [
+      {
+        "id": 1,
+        "location": "123 Main St, Anytown, USA",
+        "name":"Theme Park Site",
+        "cost":"20,00,000",
+        "size_acres": 200,
+        "price": 10,
+        "airport":"10",
+        "Remaining_Days":"10",
+        "Next_Check":"2.5",
+        "description": "Beautiful parcel of land with scenic views, perfect for building a dream home.",
+        "image_url": "./src/assets/Frame 28.png",
+        "contact": {
+          "name": "John Doe",
+          "phone": "+1 (555) 123-4567",
+          "email": "john.doe@example.com"
+        }
+      },
+      {
+        "id": 2,
+        "location": "456 Elm St, Springfield, USA",
+        "name":"Plot Site",
+        "cost":"50,00,000",
+        "airport":"70",
+        "size_acres": 500,
+        "price": 75,
+        "Remaining_Days":"10",
+        "Next_Check":"4.5",
+        "description": "Wooded lot with potential for development, close to amenities and schools.",
+        "image_url": "./src/assets/view-land-plot-real-estate-business-development_23-2149916736.avif",
+        "contact": {
+          "name": "Jane Smith",
+          "phone": "+1 (555) 987-6543",
+          "email": "jane.smith@example.com"
+        }
+      },
+      {
+        "id": 3,
+        "location": "789 Oak St, Metropolis, USA",
+        "name":"Agriculture Site",
+        "cost":"90,00,000",
+        "airport":"90",
+        "size_acres": 1000,
+        "price": 20,
+        "Remaining_Days":"10",
+        "Next_Check":"5.5",
+        "description": "Large plot of land with utilities available, suitable for commercial or residential use.",
+        "image_url": "./src/assets/view-land-plot-real-estate-business-development_23-2149916719.avif",
+        "contact": {
+          "name": "Michael Johnson",
+          "phone": "+1 (555) 456-7890",
+          "email": "michael.johnson@example.com"
+        }
+      }
+    ]
+  }

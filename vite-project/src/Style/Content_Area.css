@@ -1,0 +1,177 @@
+.outer-contact-caontainer{
+     width: Fill (1,115px);
+     height: 807px;
+     padding: 60px;
+     gap: 10px;
+     overflow: auto;
+     /* border: 2px solid rebeccapurple; */
+}
+.contact-area-image{
+     width: 850px;
+     height: 371px;
+}
+.conten-park-name-left-box{
+      border: 2px solid gray;
+      width: 850px;
+      height: 315.39px;
+      display: flex;
+      margin-bottom: 5px;
+}
+.header-outer-content-area{
+      /* border: 2px solid black; */
+      width: 410px;
+      height: 255.39px;
+      gap: 30px;
+      position: relative;
+      top: 25px;
+      left: 25px;
+}
+.header-name-content-area{
+      width: 279px;
+      height: 42px;
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 42.24px;
+      letter-spacing: -2%;
+}
+
+.header-left-addredd-content-area{
+      width: 351px;
+      height: 53px;
+      gap: 10px;
+      position: relative;
+      top: 20px;
+      color: gray;
+}
+.img-location-content{
+      width: 24px;
+      height: 24px;
+      gap: 10px;
+}
+.div-header-location-address{
+      margin-bottom: 8px;
+}
+.down-address-header-content-area{
+      display: flex;
+      justify-content: space-between;
+}
+.content-area-polygon{
+      width: FILL(462.5px);
+      height: 28px;
+      position: relative;
+      top: 40px;
+}
+
+.left-div-acres-area{
+      width: FILL(462.5px);
+      height: 42.39px;
+      gap: 30px;
+      position: relative;
+      top: 78px;
+      display: flex;
+}
+.conten-area-acres{ 
+     display: flex;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 26.4px;
+}
+.para-below-area{
+      font-weight: 400;
+      font-size: 11px;
+      width: 24px;
+      height: 15px; 
+      letter-spacing: -2%;
+      color: gray;
+}
+  
+.right-bottom-complete-site{
+      /* border: 2px solid yellow; */
+      width: 273px;
+      height: 109px;
+      position: relative;
+      top: 25px;
+      left: 130px;
+}
+.bottom-right-button{
+      width: 273px;
+      height: 52px;
+      padding: 17px 31px 17px 31px;
+      gap: 10px;
+      background-color: #4375FB;
+      color: white;
+      border: none;
+      cursor: pointer;
+
+}
+.bottom-right-site-visit{
+      border: 1px solid #4375FB;
+      width: 100px;
+      height: 30px;
+      padding: 17px 31px 17px 31px;
+      gap: 10px;
+      position: relative;
+      top: 9px;
+      left: 109px;
+      display: flex;
+      justify-content: center;
+      color: #4375FB;
+      cursor: pointer;
+}
+.bottom-rupees-border-line{
+      /* border: 2px solid violet; */
+      width: 273px;
+      height: 37px;
+      position: relative;
+      top: 17px;
+      display: flex;
+}
+.status-bar{
+      width: 273px;
+      height: 5px;
+      background-color: rgb(233, 227, 227);
+      position: relative;
+      top: 10px;
+}
+.status-bar-inner{
+      width: 100px;
+      height: 5px;
+      background-color: #4375FB;
+}
+.para-cost-right{
+      position: relative;
+      left: 60px;
+      top: 13px;
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 19.8px;
+      color: gray;
+}
+.costoftheland{
+      width: 137px;
+      height: 32px;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 31.68px;
+      color:#4375FB;
+}
+.contentjMarket{
+       width: 850px;
+       height: 51px;
+       position: relative;
+       bottom: 15px;
+       cursor: pointer;
+}
+.arrowjmarket{
+       position: relative;
+       top: 14px;
+       color: gray;
+       cursor: pointer;
+}
+.imgarrow{
+       position: relative;
+       top: 3px;
+       cursor: pointer;
+}
+ 
+

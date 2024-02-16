@@ -1,0 +1,68 @@
+.outer-container{
+     border: 2px solid  gray;
+     width: 320px;
+     height: 1020px;
+}
+.inner-container{
+     border: 2px solid gray;
+     width: FILL(320px);
+     height: 200px;
+     gap: 10px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.logo-img{
+     width: 58.1px;
+     height: 36.1px;
+     cursor: pointer;
+}
+.cart-container{
+    border: 2px solid gray;
+     width: FILL(320px);
+     height: 142.5px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     cursor: pointer;
+}
+.market-container{
+    border: 2px solid gray;
+    width: FILL(320px);
+    height: 142.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.settings-container{
+    border: 2px solid gray;
+    width: FILL(320px);
+    height: 142.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.logout-container{
+    border: 2px solid gray;
+    width: FILL(320px);
+    height: 142.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
